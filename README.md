@@ -27,7 +27,6 @@ pip install opencv-python numpy matplotlib
 ```
 ## Executando o Código
 Clone o repositório:
-````
-bash
+```bash
 git clone https://github.com/Paloma13744/reconhecimentoImagem.git
 ```
